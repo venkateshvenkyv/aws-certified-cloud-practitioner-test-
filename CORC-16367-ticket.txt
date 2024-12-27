@@ -1,0 +1,38 @@
+gls-ingest-api-group-- api group name
+GLS-Ingest-- role name
+Dummy-- dev_client_properties
+
+
+us-dev01-basic-authorizer:dev01 
+arn:aws:iam::607546651489:role/us-dev01-apigw-basic-authorizer-role
+
+
+us-dev01-token-authorizer:dev01 (us-east-1)
+arn:aws:iam::607546651489:role/us-dev01-api-gw-lambda-authorizer-role
+ 
+DEV::
+
+9um0LhscQH6VZWxy4hQKx3oXHT56ekiM --> DEV Client-ID
+g0SL0GucJmb8c576EcWx6n63uN8bvzDE --> DEV Secret-ID
+w2kyztjPrDsoixaJxp8vbnPHvSm3y4XLyQlxd5jYmWNIlW3ZjVYGfCYy+hgTPv86 --> Object ID
+
+
+INT::
+
+7nStWe01Q875UpYjfev5UG5S1o9HOvCJ -- Client-ID
+AYzRNv1Aco8w3md3e3QZPTx85TJ06cHw -- Secret-ID
+qld0AuyUglBZHi4VmMTgBDmiBO1zRqkKiU9xrCJy2zpIlW3ZjVYGfCYy+hgTPv86 --> Object ID
+
+
+
+FOR PERF::::
+
+clientStoreTableName	na-perf01-clientstore
+clientPropertiesTableName	perf01_client_properties
+
+apiGroupTableName	          perf01_apigroups_path
+clientPropertiesTableName	perf01_client_properties
+
+
+
+

@@ -1,0 +1,237 @@
+dev-- us-3
+int-us-3
+perf-us-3
+
+---->>>TAKING THE REFERENCE TABLES OF ""MEDALLIA""<<<----
+
+
+DEV:: 	DEP_US_WEB_GENERAL_SIGNUP
+71Bt3p32fJHnS1NVmTJ6oVWWpWpzHO25 -- client id
+pxTt1eJC07JOAWhoaDLZ3QHttvKbO464 -- client secret
+LmMnkutLt/nVRYoVAeojupT2c66WFeSUWJTQrvyr729IlW3ZjVYGfCYy+hgTPv86
+ACCOUNTS_CCP_roles_apigroup (DEP_US_WEB_GENERAL_SIGNUP_roles_apigroup)
+ACCOUNTS_CCP_ReadResources(ACCOUNTS_CCP_apigroup) (DEP_US_WEB_GENERAL_SIGNUP_apigroup)
+
+DEV :: 	DEP_US_WEB_HACER_REQUEST
+5yLhtbIBLnwXife8vV5EhICT6WRF5Upt --ID
+HYUSafiD1CKHPdh74MM6ssXP6ShESzaQ -- Secret
+ZNOnEAGPKndSL2kGOMlT/TBeXWVs9hXc9dA6qb3pzLRIlW3ZjVYGfCYy+hgTPv86
+us-dev01-clientstore
+dev_client_properties
+na-us-dev01-core-roles-apigroups
+na-us-dev01-core-apigroups-path
+
+
+DEV :::	CALL_CENTER_US_OFFER_REQUEST
+8frG14aHi42A7Wm3809CzVhghonkNJhS  --ID
+VZRGKS9qn4Y9sdyBS4Rk1AmmA55W5ezv --Secret
+h8pblInYTcLQfCGb1m1pJ6/HifuvGRkKYL0jdZc8301IlW3ZjVYGfCYy+hgTPv86
+ACCOUNTS_CCP_roles_apigroup (CALL_CENTER_US_OFFER_REQUEST_roles_apigroup)
+ACCOUNTS_CCP_apigroup (CALL_CENTER_US_OFFER_REQUEST_apigroup)
+-----------------------------------------------------------------------------------------
+
+DEV :: UK-- 	DEP_UK_WEB_GENERAL_SIGNUP
+4bR5k5N7zh9tZCLZ0H0Df5WUDFWBHi7I --ID
+E6mNiVD543GRE5o6quAzvw4ejSQTgPiz  --secret
+u7v3CHZwOQu3pv5ciJyCZ8JAb629c6UQz3xQUdO+yilIlW3ZjVYGfCYy+hgTPv86
+ACCOUNTS_CCP_roles_apigroup (DEP_UK_WEB_GENERAL_SIGNUP_roles_apigroup)
+ACCOUNTS_CCP_apigroup (DEP_UK_WEB_GENERAL_SIGNUP_apigroup)
+
+
+
+DEV :: UK-- ARMADILLO_GB_WEB_PREFERENCE
+897jk6UjsVUol0VdrVsIxXvuKFBw5mtM  --ID
+spf7kvCT4ZM1R8eToEPTJbGL8TtVv9FX ---Secret
+a2EvrmbHtpttqV3tnIR71Z+Qhyy3pUIK9nqatj926thIlW3ZjVYGfCYy+hgTPv86
+ACCOUNTS_CCP_roles_apigroup (ARMADILLO_GB_WEB_PREFERENCE_roles_apigroup)
+ACCOUNTS_CCP_apigroup (ARMADILLO_GB_WEB_PREFERENCE_apigroup)
+
+
+
+DEV :: UK-- ARMADILLO_GB_WEB_SURVEY_FORMS
+9Q6Jk63KilXDf4Hnfe53y5FnxwGsVxbz -- ID
+L6QbPYOh9dPvpn9XGIOJQP08InlLhQhV --secret
+iGa1jtLwDu65Q2Ywx20T7Us4G9w7uvuhy5YxtFFAWUVIlW3ZjVYGfCYy+hgTPv86
+ACCOUNTS_CCP_roles_apigroup (ARMADILLO_GB_WEB_SURVEY_FORMS_roles_apigroup)
+ACCOUNTS_CCP_apigroup (ARMADILLO_GB_WEB_SURVEY_FORMS_apigroup)
+
+
+
+DEV :: UK--O2_WIFI_GB_WEB_GENERAL_SIGNUP
+65iUfMS65vOAYyIwlOO45tKnUR0YjaBA --ID
+Ufon0oZ5BN5mhEVWUaV4wrSCmvzWARB6 --secret
+WksWizuuXwqzE78vUeRATjllkMJVneSRuE4WHBYY5q1IlW3ZjVYGfCYy+hgTPv86
+ACCOUNTS_CCP_roles_apigroup (O2_WIFI_GB_WEB_GENERAL_SIGNUP_roles_apigroup)
+ACCOUNTS_CCP_apigroup (O2_WIFI_GB_WEB_GENERAL_SIGNUP_apigroup)
+
+
+
+DEV :: CA -- COSSETTE_CA_WEB_GENERAL_SIGNUP
+7HzrsV6I0NL60KK7vsIw4XZkSkNWnoh7 --ID
+hwThT34ieJ5VfPUkRWgcP59OD2FoTSu3 -- secret
+ziBtkMMWfHGpm9BbvhgZFEnUIP3ALr1K5UD7oXW194FIlW3ZjVYGfCYy+hgTPv86
+ACCOUNTS_CCP_roles_apigroup (COSSETTE_CA_WEB_GENERAL_SIGNUP_roles_apigroup)
+ACCOUNTS_CCP_apigroup (COSSETTE_CA_WEB_GENERAL_SIGNUP_apigroup)
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+
+
+INT::::
+	
+ 
+US ::: DEP_US_WEB_GENERAL_SIGNUP
+5N9DR1JnkT84RYUWe0XOpBUdnWpv72J9 -- ID
+sZqRDJJ0Rw0WM1Xs7mcHTMcnaSIQIyd2 -- secret
+JR/D+JEGSKaIs2X0wiGXd8YOKA47U62SGx7PWO8u/tFIlW3ZjVYGfCYy+hgTPv86
+
+ACCOUNTS_CCP_roles_apigroup
+ACCOUNTS_CCP_apigroup
+
+
+
+US:: DEP_US_WEB_HACER_REQUEST
+5ixxv0JoJbcp8tDr5jp7jG0zA5W1ShtD --ID
+j7pUSnCeARabMekB4J9F43lk05Kowu67 --Secret
+4ZONun7o1ipsSNZxd6el7Zt3Ili2tG0LkUgchRaoTsxIlW3ZjVYGfCYy+hgTPv86
+
+
+
+
+US:: CALL_CENTER_US_OFFER_REQUEST
+1DGl1KAdP8gyM6DpBI9JwlETq4QsH10W --ID
+yYKnEX3iRYZNTNaO5G4S7PIsmq2C9HA8 --Secret
+mdPNb+Hc9BlC7sUSnkyhisiMejVFv21zeOlO+qVrXopIlW3ZjVYGfCYy+hgTPv86 ---- DONE
+
+
+-------27-06-2023-----
+
+
+UK:: DEP_UK_WEB_GENERAL_SIGNUP
+lv4ywvGJGFOLI4fMoBc4z1XjVRzHzVAA --ID
+C017Yfk2HEmit4RhG2GaRp3TfkiKKwrY --Secret
+Mf7jYYvHN6+qieuVGhZrPa2CRIUCPaNzap97UNtgnAxIlW3ZjVYGfCYy+hgTPv86
+ACCOUNTS_CCP_roles_apigroup
+ACCOUNTS_CCP_apigroup
+
+
+
+UK:: ARMADILLO_GB_WEB_PREFERENCE
+4G9XSJK0c9KX7SuZ0lzK4CPiEEER4qnK --ID
+s9Rp6G2BAyIXm65R6p1CV9aP4QIhh03v --Secret
+LjqlPjy+5xvgiSgoZ5bib9tV1ZaTwAPpkdhcKs8ivwtIlW3ZjVYGfCYy+hgTPv86
+
+
+
+
+UK::  ARMADILLO_GB_WEB_SURVEY_FORMS
+2xsC02UXDacH2xBSALJohbyWxw0LQUzw --ID
+Pe9K0mvH4WywiSGWVNCOIG6mVZ85oMrB --secret
+PKdx0ACPv45XhIbXtY22wvGrhmhWP/ije2Ncov6lwiJIlW3ZjVYGfCYy+hgTPv86
+
+
+
+UK:::	O2_WIFI_GB_WEB_GENERAL_SIGNUP
+2N6V8iLcm3vv6Ieja4LMc99l9RcHpjvM --ID
+ys76eaWZAkxHad6ftI5k10n9Lzy0j7x8 --secret
+KQjE1C68i/OQWkeu7Klf6gM4cmEvER0VlSxlxGzrmftIlW3ZjVYGfCYy+hgTPv86
+
+
+
+
+CA:::	COSSETTE_CA_WEB_GENERAL_SIGNUP
+l79ICjuMXQThUAbAd10ptnyOy8tFszIY --ID
+nLrk9XsH6Xkn0p9pEwHL5vA0kARQCU1a --secret
+sRPoK29FgvpU84raMttGRmUJBuvIdWUjMH/uZTFWkTRIlW3ZjVYGfCYy+hgTPv86
+
+
+-----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+PERF:::
+US :: 	DEP_US_WEB_GENERAL_SIGNUP
+43dkFKMdmL1RO54hL5f4AO7hIj0lHFyN --ID
+meYKe00umT6niVXrZy70iEwxIANMFfyv  --Secret
+KKhLGNTZvyEPowTDwpfod2IHPbvR1JCqo7RAthaeZZRIlW3ZjVYGfCYy+hgTPv86
+
+
+
+US :: DEP_US_WEB_HACER_REQUEST
+88L9snn0y24dZX0sLAV1SgUeVBdubgiM --ID
+QHBNBztHFFVAzX7claHblf601Ll8gOGD --Secret
+N0rc4SRIOBAH+jMzH4+FFeKbVRHk5VRPJWKu0Su6tclIlW3ZjVYGfCYy+hgTPv86
+
+
+
+
+US::  CALL_CENTER_US_OFFER_REQUEST
+6S9fFPalaJ4rSMQxHj6Mn4knomylVuM3 --ID
+jqVcx9ifYFrkEdR3ApEPdefBo9MsC46z --Secret
+w3xXkdVv+mdZyRyTGOWgbsSqPqFzkEl0bu19MiHooCFIlW3ZjVYGfCYy+hgTPv86
+
+
+
+
+
+UK:::   DEP_UK_WEB_GENERAL_SIGNUP
+9g4o1nfH5DGSNILR96xqqJ38qq8gcwFS --ID
+qtS9j37rP70zF3E5O8jCO8dKqt9cWjc0 --secret
+iprTwc0otnQOuln/6XSz77KBVHbxVUTa3Vjht+Lyl3tIlW3ZjVYGfCYy+hgTPv86 --DONE
+
+
+
+-----------28/06/2023----------------------
+
+UK::     ARMADILLO_GB_WEB_PREFERENCE
+34laV3L3E1hHAhYyZ0U1xlZwTb5ISVs8 --ID
+Tue48SGelig4Ux3oiDk9Tpbp3mIu0DDH --Secret
+utUBB6VFshijc3yh8JrXRphRw9MBHC9FUxsAlpQh+h1IlW3ZjVYGfCYy+hgTPv86
+
+
+
+
+
+
+UK::   ARMADILLO_GB_WEB_SURVEY_FORMS
+2sWg8FfO8741iL7i5ndrXJ4F6x6i1GFq --ID
+yY7cH3MCR9sBcJZm2L3N91c6i34TgjMP --Secret
+S3lbnEIEETW+MgT2zwnT+JrRC67ovxwUjQRKvUI8pVJIlW3ZjVYGfCYy+hgTPv86
+
+
+
+
+
+
+
+UK:: O2_WIFI_GB_WEB_GENERAL_SIGNUP
+8b3sqSSWv0bJD8Kh9HEjkIIfqti8YpLm --ID
+MULWfzwkad3z2h6xdJB1N80XVsDPN6Xu --secret
+vns+PRNNXaaf6nOVaY7aN7KDqQ7AybV84qcxvS9Apr9IlW3ZjVYGfCYy+hgTPv86
+
+
+
+
+
+
+CA::   COSSETTE_CA_WEB_GENERAL_SIGNUP
+539Hh5dv9SGwRzi7I6Q0R53lorgCyGmk --ID
+PM452qBkJXr67gcbXpMt7e9f579Dttb3 --secret
+xoRDPah6RZZwjCRJGYhGl6/ckA2N3XiI9v+kpr4GvqdIlW3ZjVYGfCYy+hgTPv86
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

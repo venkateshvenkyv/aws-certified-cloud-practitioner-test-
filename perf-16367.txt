@@ -1,0 +1,5 @@
+clientStoreTableName	na-perf01-clientstore
+clientPropertiesTableName	perf01_client_properties
+
+apiGroupTableName	          perf01_apigroups_path
+clientPropertiesTableName	perf01_client_properties
