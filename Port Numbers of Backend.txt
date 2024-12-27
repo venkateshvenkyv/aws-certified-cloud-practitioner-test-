@@ -1,0 +1,52 @@
+
+for Admin:
+mongodb+srv://venky:venky@cluster0.pcodt.mongodb.net/AdminData?retryWrites=true&w=majority
+------------------------------
+
+for Api GAteWay
+server:
+  port: 8088
+   
+spring:
+  application:
+    name: Api-Gateway 
+ 
+zuul:
+    routes:
+     ADMIN-SERVICE:
+      url: http://localhost:8000
+     ORDER-SERVICE:
+      url: http://localhost:8082
+     CUSTOMER-SERVICE:
+      url: http://localhost:8083
+     WASHER-SERVICE:
+      url: http://localhost:8003
+     PAYMENT-SERVICE:
+      url: http://localhost:8004
+ --------------------------------      
+for Eureka:
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
+    
+server:
+  port: 8761
+---------------
+for Order:
+mongodb+srv://venky:venky@cluster0.pcodt.mongodb.net/Order?retryWrites=true&w=majority
+-------------
+forPayment:
+ mongodb+srv://venky:venky@cluster0.pcodt.mongodb.net/Payment?retryWrites=true&w=majority
+      -------------------------------
+for user:
+mongodb+srv://venky:venky@cluster0.pcodt.mongodb.net/customers?retryWrites=true&w=majority
+      ------------------
+for Washer:
+ mongodb+srv://venky:venky@cluster0.pcodt.mongodb.net/Washer?retryWrites=true&w=majority
+--------------------------------------------------------------
+
+Compass Connection:
+mongodb+srv://venky:venky@cluster0.pcodt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+ 
